@@ -1,0 +1,11 @@
+C:\Users\7280\Downloads\MNML\MNML.ESFE\bin\Debug\net8.0\MNML.ESFE.deps.json
+C:\Users\7280\Downloads\MNML\MNML.ESFE\bin\Debug\net8.0\MNML.ESFE.dll
+C:\Users\7280\Downloads\MNML\MNML.ESFE\bin\Debug\net8.0\MNML.ESFE.pdb
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\MNML.ESFE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\MNML.ESFE.AssemblyInfoInputs.cache
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\MNML.ESFE.AssemblyInfo.cs
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\MNML.ESFE.csproj.CoreCompileInputs.cache
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\MNML.ESFE.dll
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\refint\MNML.ESFE.dll
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\MNML.ESFE.pdb
+C:\Users\7280\Downloads\MNML\MNML.ESFE\obj\Debug\net8.0\ref\MNML.ESFE.dll
